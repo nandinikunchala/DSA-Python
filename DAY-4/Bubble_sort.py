@@ -1,6 +1,14 @@
 #Bubble sort
 #Bubble sort is the sorting algorithm that arranges elements in ascending or descending order by comparing adjacent elements 
-#and swapping them when they are in the wrong order
+#and swapping them when they are in the wrong order.
+
+#Bubble Sort is a comparison-based sorting algorithm that repeatedly compares adjacent elements
+#and swaps them if they are in the wrong order until the array is sorted.
+
+#Time complexity
+#BC:o(n*2)[the given code performs all its comparision even array is already sorted]
+#AC:o(n*2)[elements generally require multiple comparisions and swaps]
+#WC:o(n*2)[A reverse-sorted array requires many swaps]
 
 #Algorithm
 #1.Start with first element.
