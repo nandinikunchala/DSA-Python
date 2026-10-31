@@ -42,3 +42,4 @@ def quick_sort(arr):
     return quick_sort(left)+middle+quick_sort(right)
 a=[8,6,4,9,1,2]
 print(quick_sort(a))
+
